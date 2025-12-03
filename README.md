@@ -1,1 +1,4 @@
-ML,DP,RL with python
+ML,RL & AlgoTrade Bots
+python & maybe Rust
+
+
