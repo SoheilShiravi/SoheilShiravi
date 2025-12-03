@@ -1,4 +1,3 @@
-ML,RL & AlgoTrade Bots
-python & maybe Rust
+ML,RL & AlgoTrade Bots | python & maybe Rust |
 
 
